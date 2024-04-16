@@ -14,15 +14,6 @@
 
       <div class="row">
         <div class="col-sm" style="text-align: right;">
-          <h5 class="dosis-400">Cómo hacer juegos con C++ y SDL2: Introducción | 01&emsp;[ ESP ]</h5>
-        </div>
-        <div class="col-sm" style="text-align: left;">
-          <a href="https://pablolario.substack.com/p/como-hacer-juegos-con-c-y-sdl2-introduccion" target="_blank">https://pablolario.substack.com/p/como-hacer-juegos-con-c-y-sdl2-introduccion</a>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col-sm" style="text-align: right;">
           <h5 class="dosis-400">I feel like a bad developer for not playing games&emsp;[ ENG ]</h5>
         </div>
         <div class="col-sm" style="text-align: left;">
@@ -30,6 +21,7 @@
         </div>
       </div>
 
+      <br>
       <br>
       <br>
       <br>
