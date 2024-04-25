@@ -70,11 +70,11 @@
       <div class="row">
         <div class="col-md">
           <div class="card">
-            <img src="../assets/antilibrary/creativity.jpg" alt="Creativity" style="width:100%">
+            <img src="../assets/antilibrary/gulag.jpg" alt="The Gulag Archipelago" style="width:100%">
             <div class="container">
               <br>
-              <h4 class="dosis-400"><b>Creativity</b></h4>
-              <p class="dosis-400">John Cleese</p>
+              <h4 class="dosis-400"><b>The Gulag Archipelago</b></h4>
+              <p class="dosis-400">Alexander Solzhenitsyn</p>
             </div>
           </div>
         </div>
