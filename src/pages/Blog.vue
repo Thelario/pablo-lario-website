@@ -13,15 +13,23 @@
     <div class="container">
 
       <div class="row">
-        <div class="col-sm" style="text-align: right;">
-          <h5 class="dosis-400">I feel like a bad developer for not playing games&emsp;[ ENG ]</h5>
+        <div class="col-4" style="text-align: right;">
+          <h5 class="dosis-400">[ ENG ]&emsp;[ 27/04/2024 ]</h5>
         </div>
-        <div class="col-sm" style="text-align: left;">
-          <a href="https://pablolario.substack.com/p/videogames-ethics" target="_blank">https://pablolario.substack.com/p/videogames-ethics</a>
+        <div class="col" style="text-align: left;">
+          <h5 class="dosis-400"><a href="https://pablolario.substack.com/p/why-making-your-own-engine-might" target="_blank">Why making your own engine might make you a more creative developer</a></h5>
         </div>
       </div>
 
-      <br>
+      <div class="row">
+        <div class="col-4" style="text-align: right;">
+          <h5 class="dosis-400">[ ENG ]&emsp;[ 24/02/2024 ]</h5>
+        </div>
+        <div class="col" style="text-align: left;">
+          <h5 class="dosis-400"><a href="https://pablolario.substack.com/p/videogames-ethics" target="_blank">I feel like a bad developer for not playing games</a></h5>
+        </div>
+      </div>
+
       <br>
       <br>
       <br>
