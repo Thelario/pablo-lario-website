@@ -38,16 +38,16 @@
 
             <div class="row">
               <div class="col-lg-7" style="text-align: left;">
-                <a href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><img src="../assets/satellite-engine-2d.png" alt="" /></a>
+                <a href="https://github.com/Thelario/weird-bullet-caos" target="_blank"><img src="../assets/bullet-game.gif" alt="" /></a>
               </div>
               <div class="col-lg" style="text-align: left;">
                 <br>
-                <h3 class="dosis-300">Satellite Engine 2D</h3>
-                <p class="dosis-300">February, 2024 - Present</p>
-                <p class="dosis-300">A 2D game engine made with C++ and SDL2 with the goal of making 2D roguelike games with it.</p>
+                <h3 class="dosis-300">Bullet Game</h3>
+                <p class="dosis-300">April, 2024</p>
+                <p class="dosis-300">A short, casual but fun 2D shooting game made as a learning exercise to test my Satellite Engine 2D.</p>
                 <ul class="nav">
                   <li class="nav-item">
-                    <a class="nav-link text-blue" href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><p class="dosis-400">Source code</p></a>
+                    <a class="nav-link text-blue" href="https://github.com/Thelario/weird-bullet-caos" target="_blank"><p class="dosis-400">Source code</p></a>
                   </li>
                 </ul>
               </div>
@@ -57,7 +57,7 @@
 
             <div class="row">
               <div class="col-lg-7" style="text-align: left;">
-                <a href="https://github.com/Thelario/Pong/tree/main" target="_blank"><img src="../assets/pong.png" alt="" /></a>
+                <a href="https://github.com/Thelario/Pong/tree/main" target="_blank"><img src="../assets/pong.gif" alt="" /></a>
               </div>
               <div class="col-lg" style="text-align: left;">
                 <br>
@@ -76,16 +76,16 @@
 
             <div class="row">
               <div class="col-lg-7" style="text-align: left;">
-                <a href="https://github.com/Thelario/Satellite-Engine" target="_blank"><img src="../assets/rendering_engine.png" alt="" /></a>
+                <a href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><img src="../assets/satellite-engine-2d.png" alt="" /></a>
               </div>
               <div class="col-lg" style="text-align: left;">
                 <br>
-                <h3 class="dosis-300">2D Rendering Engine</h3>
-                <p class="dosis-300">January, 2023 - May, 2023</p>
-                <p class="dosis-300">A 2D rendering engine made from scratch with C++ and OpenGL as a learning experience.</p>
+                <h3 class="dosis-300">Satellite Engine 2D</h3>
+                <p class="dosis-300">February, 2024 - Present</p>
+                <p class="dosis-300">A 2D game engine made with C++ and SDL2 with the goal of making 2D roguelike games with it.</p>
                 <ul class="nav">
                   <li class="nav-item">
-                    <a class="nav-link text-blue" href="https://github.com/Thelario/Satellite-Engine" target="_blank"><p class="dosis-400">Source code</p></a>
+                    <a class="nav-link text-blue" href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><p class="dosis-400">Source code</p></a>
                   </li>
                 </ul>
               </div>
