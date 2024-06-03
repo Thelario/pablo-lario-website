@@ -14,6 +14,15 @@
 
       <div class="row">
         <div class="col-4" style="text-align: right;">
+          <h5 class="dosis-400">[ ENG ]&emsp;[ 02/06/2024 ]</h5>
+        </div>
+        <div class="col" style="text-align: left;">
+          <h5 class="dosis-400"><a href="https://pablolario.substack.com/p/how-is-the-man-i-want-to-be" target="_blank">How is the man I want to be?</a></h5>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-4" style="text-align: right;">
           <h5 class="dosis-400">[ ENG ]&emsp;[ 27/04/2024 ]</h5>
         </div>
         <div class="col" style="text-align: left;">
