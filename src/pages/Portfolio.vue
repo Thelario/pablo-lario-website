@@ -28,72 +28,6 @@
 
       <div class="row">
 
-        <!-- C++ Projects -->
-
-        <div class="col-md" style="text-align: center;">
-
-          <div class="container">
-            <h2 class="dosis-400">C++ Projects</h2>
-            <br>
-
-            <div class="row">
-              <div class="col-lg-7" style="text-align: left;">
-                <a href="https://github.com/Thelario/weird-bullet-caos" target="_blank"><img src="../assets/bullet-game.gif" alt="" /></a>
-              </div>
-              <div class="col-lg" style="text-align: left;">
-                <br>
-                <h3 class="dosis-300">Bullet Game</h3>
-                <p class="dosis-300">April, 2024</p>
-                <p class="dosis-300">A short, casual but fun 2D shooting game made as a learning exercise to test my Satellite Engine 2D.</p>
-                <ul class="nav">
-                  <li class="nav-item">
-                    <a class="nav-link text-blue" href="https://github.com/Thelario/weird-bullet-caos" target="_blank"><p class="dosis-400">Source code</p></a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-
-            <br>
-
-            <div class="row">
-              <div class="col-lg-7" style="text-align: left;">
-                <a href="https://github.com/Thelario/Pong/tree/main" target="_blank"><img src="../assets/pong.gif" alt="" /></a>
-              </div>
-              <div class="col-lg" style="text-align: left;">
-                <br>
-                <h3 class="dosis-300">Pong</h3>
-                <p class="dosis-300">March, 2024</p>
-                <p class="dosis-300">A recreation of the famous Pong using C++ and SDL2 as a learning experience using my Satellite Engine 2D.</p>
-                <ul class="nav">
-                  <li class="nav-item">
-                    <a class="nav-link text-blue" href="https://github.com/Thelario/Pong/tree/main" target="_blank"><p class="dosis-400">Source code</p></a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-
-            <br>
-
-            <div class="row">
-              <div class="col-lg-7" style="text-align: left;">
-                <a href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><img src="../assets/satellite-engine-2d.png" alt="" /></a>
-              </div>
-              <div class="col-lg" style="text-align: left;">
-                <br>
-                <h3 class="dosis-300">Satellite Engine 2D</h3>
-                <p class="dosis-300">February, 2024 - Present</p>
-                <p class="dosis-300">A 2D game engine made with C++ and SDL2 with the goal of making 2D roguelike games with it.</p>
-                <ul class="nav">
-                  <li class="nav-item">
-                    <a class="nav-link text-blue" href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><p class="dosis-400">Source code</p></a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-
-          </div>
-        </div>
-
         <!-- Unity Projects -->
 
         <div class="col-md" style="text-align: center;">
@@ -166,6 +100,71 @@
           <br>
         </div>
 
+        <!-- C++ Projects -->
+
+        <div class="col-md" style="text-align: center;">
+          <div class="container">
+            <h2 class="dosis-400">C++ Projects</h2>
+            <br>
+
+            <div class="row">
+              <div class="col-lg-7" style="text-align: left;">
+                <a href="https://github.com/Thelario/wfc-cpp" target="_blank"><img src="../assets/wfc_cpp_demo.gif" alt="" /></a>
+              </div>
+              <div class="col-lg" style="text-align: left;">
+                <br>
+                <h3 class="dosis-300">WFC Algorithm</h3>
+                <p class="dosis-300">June, 2024</p>
+                <p class="dosis-300">An implementation of the famous Wave Function Collapse algorithm inspired by Oskar Stålberg's work.</p>
+                <ul class="nav">
+                  <li class="nav-item">
+                    <a class="nav-link text-blue" href="https://github.com/Thelario/wfc-cpp" target="_blank"><p class="dosis-400">Source code</p></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <br>
+
+            <div class="row">
+              <div class="col-lg-7" style="text-align: left;">
+                <a href="https://github.com/Thelario/weird-bullet-caos" target="_blank"><img src="../assets/bullet-game.gif" alt="" /></a>
+              </div>
+              <div class="col-lg" style="text-align: left;">
+                <br>
+                <h3 class="dosis-300">Bullet Game</h3>
+                <p class="dosis-300">April, 2024</p>
+                <p class="dosis-300">A short, casual but fun 2D shooting game made as a learning exercise to test my Satellite Engine 2D.</p>
+                <ul class="nav">
+                  <li class="nav-item">
+                    <a class="nav-link text-blue" href="https://github.com/Thelario/weird-bullet-caos" target="_blank"><p class="dosis-400">Source code</p></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <br>
+
+            <div class="row">
+              <div class="col-lg-7" style="text-align: left;">
+                <a href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><img src="../assets/satellite-engine-2d.png" alt="" /></a>
+              </div>
+              <div class="col-lg" style="text-align: left;">
+                <br>
+                <h3 class="dosis-300">Satellite Engine 2D</h3>
+                <p class="dosis-300">February, 2024 - Present</p>
+                <p class="dosis-300">A 2D game engine made with C++ and SDL2 with the goal of making 2D roguelike games with it.</p>
+                <ul class="nav">
+                  <li class="nav-item">
+                    <a class="nav-link text-blue" href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><p class="dosis-400">Source code</p></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
         <div class="row">
           <div class="col-md" style="text-align: center;">
             <h4 class="dosis-300">Other Projects</h4>
@@ -175,7 +174,6 @@
             <p class="dosis-400">Blups, a casual, short and fun mobile game:&emsp;<a href="https://pablo-lario.itch.io/blups" target="_blank">Play demo</a>&emsp;<a href="https://github.com/Thelario/Blups-Project" target="_blank">Source code</a></p>  
           </div>
         </div>
-
       </div>
     </div>
 
