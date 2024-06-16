@@ -25,11 +25,11 @@
         </div>
         <div class="col-md">
           <div class="card">
-            <img src="../assets/antilibrary/ape.jpg" alt="The Ape that Understood the Universe" style="width:100%">
+            <img src="../assets/antilibrary/crime.jpg" alt="Crime and punishment" style="width:100%">
             <div class="container">
               <br>
-              <h4 class="dosis-400"><b>La Rebelión de las Masas</b></h4>
-              <p class="dosis-400">José Ortega y Gasset</p>
+              <h4 class="dosis-400"><b>Crime and Punishment</b></h4>
+              <p class="dosis-400">Fyodor Dostoevsky</p>
             </div>
           </div>
         </div>
