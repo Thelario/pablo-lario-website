@@ -22,6 +22,7 @@
               <p class="dosis-400">Robert Nozick</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -32,6 +33,7 @@
               <p class="dosis-400">Fyodor Dostoevsky</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -42,6 +44,7 @@
               <p class="dosis-400">Ayn Rand</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -52,6 +55,7 @@
               <p class="dosis-400">Friedrich Nietzsche</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -77,6 +81,7 @@
               <p class="dosis-400">Alexander Solzhenitsyn</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -87,6 +92,7 @@
               <p class="dosis-400">Bertrand Russell</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -97,16 +103,18 @@
               <p class="dosis-400">Robert Michels</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
-            <img src="../assets/antilibrary/sisyphus.jpg" alt="The Myth of Sisyphus" style="width:100%">
+            <img src="../assets/antilibrary/zarathrusta.jpg" alt="Thus Spoke Zarathustra" style="width:100%">
             <div class="container">
               <br>
-              <h4 class="dosis-400"><b>The Myth of Sisyphus</b></h4>
-              <p class="dosis-400">Albert Camus</p>
+              <h4 class="dosis-400"><b>Thus Spoke Zarathustra</b></h4>
+              <p class="dosis-400">Friedrich Nietzsche</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -119,7 +127,6 @@
           </div>
         </div>
       </div>
-
     </div>
 
     <!-- FOOTER -->
@@ -145,9 +152,6 @@
                 <a class="nav-link text-blue" href="https://substack.com/@pablolario" target="_blank"><p class="dosis-400">Substack</p></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-blue" href="https://twitter.com/lario_goro" target="_blank"><p class="dosis-400">Twitter</p></a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link text-dark"><p class="dosis-400">pablo.lario02@gmail.com</p></a>
               </li>
             </ul>
@@ -167,16 +171,16 @@ export default {
   
 <style>
 .header {
-  padding-left: 181px;
-  padding-right: 181px;
+  padding-left: 11%;
+  padding-right: 11%;
   padding-top: 75px;
   padding-bottom: 50px;
   text-align: left;
   background: #F6F5F2;
 }
 .footer {
-  padding-left: 155px;
-  padding-right: 155px;
+  padding-left: 11%;
+  padding-right: 11%;
   padding-top: 25px;
   padding-bottom: 25px;
   text-align: left;

@@ -27,6 +27,7 @@
               <p class="dosis-400">Read it if you are into psychology and want to understand what dopamine truly is and how much it affects human's behaviour.</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -39,6 +40,7 @@
                 places where poverty and violence are the norm. Really well written and a really solid theory that I believe to be true.</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -51,6 +53,7 @@
               <p class="dosis-400">I got to understand that problems will make me grow if I approach them with the right mindset.</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -63,6 +66,7 @@
               <p class="dosis-400">My conscience wouldn't let me sleep in the night if I voted again. I simply can't do it anymore.</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -92,6 +96,7 @@
               <p class="dosis-400">Full of scientific references but written for the reader to enjoy it a lot, without boring you. I promise you will learn a lot from it.</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -104,6 +109,7 @@
               <p class="dosis-400">Hayek only attacks the arguments of those he is opposed to, and he does it beautifully.</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -116,6 +122,7 @@
                 same way after reading this book. Now I know how important uninterrupted focus is for the mind and the work you do.</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -129,6 +136,7 @@
                  <p class="dosis-400">If you like psychology, this book is mandatory. Fantastic book.</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -158,6 +166,7 @@
                 but not to live an exhuberant life, but to have a safe net that allows me to work on my projects with peace of mind.</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -170,6 +179,7 @@
               <p class="dosis-400">This book is a journey, and I think it is the best book Taleb has written.</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -182,6 +192,7 @@
               <p class="dosis-400">It's about the development of 10 games. Some made it and some didn't make it, but the stories are breathtaking...</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -194,6 +205,7 @@
               <p class="dosis-400">Newport gives practical and easy to implement advice that can drastically improve your relationship with technology.</p>
             </div>
           </div>
+          <br>
         </div>
         <div class="col-md">
           <div class="card">
@@ -234,9 +246,6 @@
                 <a class="nav-link text-blue" href="https://substack.com/@pablolario" target="_blank"><p class="dosis-400">Substack</p></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-blue" href="https://twitter.com/lario_goro" target="_blank"><p class="dosis-400">Twitter</p></a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link text-dark"><p class="dosis-400">pablo.lario02@gmail.com</p></a>
               </li>
             </ul>
@@ -256,16 +265,16 @@ export default {
   
 <style>
 .header {
-  padding-left: 181px;
-  padding-right: 181px;
+  padding-left: 11%;
+  padding-right: 11%;
   padding-top: 75px;
   padding-bottom: 50px;
   text-align: left;
   background: #F6F5F2;
 }
 .footer {
-  padding-left: 155px;
-  padding-right: 155px;
+  padding-left: 11%;
+  padding-right: 11%;
   padding-top: 25px;
   padding-bottom: 25px;
   text-align: left;

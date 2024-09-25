@@ -47,8 +47,6 @@
       <br>
       <br>
       <br>
-      <br>
-      <br>
 
     </div>
 
@@ -75,9 +73,6 @@
                 <a class="nav-link text-blue" href="https://substack.com/@pablolario" target="_blank"><p class="dosis-400">Substack</p></a>
               </li>
               <li class="nav-item">
-                <a class="nav-link text-blue" href="https://twitter.com/lario_goro" target="_blank"><p class="dosis-400">Twitter</p></a>
-              </li>
-              <li class="nav-item">
                 <a class="nav-link text-dark"><p class="dosis-400">pablo.lario02@gmail.com</p></a>
               </li>
             </ul>
@@ -97,16 +92,16 @@ export default {
 
 <style>
 .header {
-  padding-left: 181px;
-  padding-right: 181px;
+  padding-left: 11%;
+  padding-right: 11%;
   padding-top: 75px;
   padding-bottom: 50px;
   text-align: center;
   background: #F6F5F2;
 }
 .footer {
-  padding-left: 155px;
-  padding-right: 155px;
+  padding-left: 11%;
+  padding-right: 11%;
   padding-top: 25px;
   padding-bottom: 25px;
   background: #F6F5F2;
