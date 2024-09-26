@@ -153,8 +153,7 @@
                     <div class="col-md" style="text-align: left;">
                       <h4 class="dosis-300">Other Unity Projects</h4>
                       <br>
-                      <p class="dosis-400">[TFG] Comparative analysis of OOP and DOP focused on videogame development with Unity and Unity DOTS:&emsp;<a href="https://github.com/Thelario/TFG-Pablo-Lario" target="_blank">Source code</a></p>
-                      <p class="dosis-400">Procedural Island Generator using the WFC Algorithm:&emsp;<a href="https://pablo-lario.itch.io/island-procedural-generator" target="_blank">Play demo</a>&emsp;<a href="https://github.com/Thelario/Survival-Roguelike-Game" target="_blank">Source code</a></p>
+                      <p class="dosis-400">[Final Degree Thesis] Comparative analysis of OOP and DOP focused on videogame development with Unity and Unity DOTS:&emsp;<a href="https://github.com/Thelario/TFG-Pablo-Lario" target="_blank">Source code</a></p>
                     </div>
                   </div>
                 </div>
