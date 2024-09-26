@@ -153,7 +153,7 @@
                     <div class="col-md" style="text-align: left;">
                       <h4 class="dosis-300">Other Unity Projects</h4>
                       <br>
-                      <p class="dosis-400">[Final Degree Thesis] Comparative analysis of OOP and DOP focused on videogame development with Unity and Unity DOTS:&emsp;<a href="https://github.com/Thelario/TFG-Pablo-Lario" target="_blank">Source code</a></p>
+                      <p class="dosis-400">Final Degree Thesis: Comparative analysis of OOP and DOP focused on videogame development with Unity and Unity DOTS:&emsp;<a href="https://github.com/Thelario/TFG-Pablo-Lario" target="_blank">Source code</a></p>
                     </div>
                   </div>
                 </div>
