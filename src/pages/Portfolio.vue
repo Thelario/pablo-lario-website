@@ -51,6 +51,54 @@
                   <div class="col-sm">
                     <div class="row">
                       <div class="col-sm-7">
+                        <a href="https://nacho-del-castillo.itch.io/bubblegum-royale" target="_blank"><img src="../assets/bubble_gum_royale.gif" alt="" /></a>
+                      </div>
+                      <div class="col-sm">
+                        <br>
+                        <h3 class="dosis-300">Bubble Gum Royale</h3>
+                        <p class="dosis-300">January, 2025</p>
+                        <p class="dosis-400">Winner of the UCM Global Game Jam 2025. A recopilation of bubble gum minigames to destroy friendships and get an insuline response.</p>
+                        <ul class="nav">
+                          <li class="nav-item">
+                            <a class="nav-link text-blue" href="https://nacho-del-castillo.itch.io/bubblegum-royale" target="_blank"><p class="dosis-400">Play game</p></a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- RIGHT SIDE PROJECT -->
+
+                  <div class="col-sm">
+                    <div class="row">
+                      <div class="col-sm-7">
+                        <a href="" target="_blank"><img src="../assets/gdice_or_die.gif" alt="" /></a>
+                      </div>
+                      <div class="col-sm">
+                        <br>
+                        <h3 class="dosis-300">Dice or Die</h3>
+                        <p class="dosis-300">October, 2024 - Present</p>
+                        <p class="dosis-400">Participate in intense poker dice games in which you will have to bet your own life in russian roulette.</p>
+                        <ul class="nav">
+                          <li class="nav-item">
+                            <a class="nav-link text-blue" href="" target="_blank"><p class="dosis-400">Coming soon</p></a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  </div>
+
+                <!-- FIRST ROW -->
+
+                <div class="row">
+
+                  <!-- LEFT SIDE PROJECT -->
+
+                  <div class="col-sm">
+                    <div class="row">
+                      <div class="col-sm-7">
                         <a href="https://pablo-lario.itch.io/mikes-balls" target="_blank"><img src="../assets/mikesBalls.gif" alt="" /></a>
                       </div>
                       <div class="col-sm">
