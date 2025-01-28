@@ -72,7 +72,7 @@
                   <div class="col-sm">
                     <div class="row">
                       <div class="col-sm-7">
-                        <a href="" target="_blank"><img src="../assets/gdice_or_die.gif" alt="" /></a>
+                        <a href="" target="_blank"><img src="../assets/dice_or_die.gif" alt="" /></a>
                       </div>
                       <div class="col-sm">
                         <br>
