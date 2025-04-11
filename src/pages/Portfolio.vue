@@ -57,7 +57,7 @@
                         <br>
                         <h3 class="dosis-300">Bubble Gum Royale</h3>
                         <p class="dosis-300">January, 2025</p>
-                        <p class="dosis-400">Winner of the UCM Global Game Jam 2025. ABubble gum minigames to destroy friendships and get an insuline response.</p>
+                        <p class="dosis-400">Winner of the UCM Global Game Jam 2025. A game bubble gum minigames to destroy friendships and get an insuline response.</p>
                         <ul class="nav">
                           <li class="nav-item">
                             <a class="nav-link text-blue" href="https://nacho-del-castillo.itch.io/bubblegum-royale" target="_blank"><p class="dosis-400">Play game</p></a>
@@ -81,7 +81,7 @@
                         <p class="dosis-400">Participate in intense poker dice games in which you will have to bet your own life in russian roulette.</p>
                         <ul class="nav">
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="" target="_blank"><p class="dosis-400">Coming soon</p></a>
+                            <a class="nav-link text-blue" href="https://store.steampowered.com/app/3459890/Dice_or_Die" target="_blank"><p class="dosis-400">Whislist on Steam</p></a>
                           </li>
                         </ul>
                       </div>

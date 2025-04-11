@@ -17,7 +17,7 @@
             <h5 class="dosis-200"><i> A little context...</i> </h5>
             <br>
             <h4 class="dosis-300">I am a spanish game programmer who is trying to set foot in the industry.
-              I've been learning gamedev for more than four years, and it has been an incredible journey so far.
+              I've been learning gamedev for more than five years, and it has been an incredible journey so far.
               I just love games a lot. Check my <a href="/portfolio">portofolio</a> if you want.</h4>
             <br>
             <h4 class="dosis-300">It is actually a bit difficult for me to define myself purely as a game programmer,
@@ -50,9 +50,8 @@
               <a href="https://www.glaielgames.com/" target="_blank">Tyler Glaiel</a> have convinced me to do so, and I think it
               is the best decision I could've taken.</h4> 
             <br>
-            <h4 class="dosis-300">On October I will enroll on a <a href="https://www.videojuegos-ucm.es/programa.html" target="_blank">Master's Degree in Game Programming</a>. I cannot wait to
-              start!!! Even though I hated university, I hope this time will be different. At least I will be making
-              games, learn cool things and meet awesome people. Or I hope so...</h4>
+            <h4 class="dosis-300">Since October 2024 I've been enrolled on a <a href="https://www.videojuegos-ucm.es/programa.html" target="_blank">Master's Degree in Game Programming</a>. I have been 
+              enjoying it a lot and I don't want it to finish! We are making a really interesing game and I've learned a lot this year. I've also met some wonderful people I hope to keep in my life.</h4>
           </div>
         </div>
       </div>
