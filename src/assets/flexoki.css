@@ -1,0 +1,72 @@
+:root {
+  /* Flexoki Dark Mode Base Colors */
+  --fx-bg: #100F0F;
+  --fx-bg-2: #100F0F;
+  --fx-ui: #282726;
+  --fx-ui-2: #343331;
+  --fx-ui-3: #403E3C;
+  --fx-tx-3: #878580;
+  --fx-tx-2: #B7B5AC;
+  --fx-tx: #CECDC3;
+  
+  /* Flexoki Accent Colors (Yellow for Dark Mode) */
+  --fx-accent: #D0A215;
+  --fx-accent-hover: #AD8301;
+}
+
+body {
+  background-color: var(--fx-bg);
+  color: var(--fx-tx);
+  font-family: 'Dosis', sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: var(--fx-accent);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--fx-accent);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--fx-tx);
+}
+
+p {
+  color: var(--fx-tx-3);
+}
+
+.flexoki-card {
+  background-color: var(--fx-bg-2);
+  border-radius: 8px;
+  padding: 20px;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.flexoki-card:hover {
+  border-color: var(--fx-accent);
+  transform: translateY(-2px);
+}
+
+.flexoki-btn {
+  background-color: var(--fx-ui);
+  color: var(--fx-tx);
+  border: 1px solid var(--fx-ui-2);
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 600;
+}
+
+.flexoki-btn:hover {
+  background-color: var(--fx-ui-2);
+  color: var(--fx-accent);
+  border-color: var(--fx-accent);
+}

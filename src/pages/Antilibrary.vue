@@ -132,30 +132,28 @@
     <!-- FOOTER -->
 
     <div class="footer">
-      <div class="background">
-        <nav class="navbar navbar-expand-lg">
-          <div class="container-fluid">
-            <ul class="nav justify-content-end">
-              <li class="nav-item">
-                <a class="nav-link text-dark"><p class="dosis-400">Contact info & socials:</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://store.steampowered.com/app/2051750/Project_Romboid/" target="_blank"><p class="dosis-400">Steam</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://github.com/Thelario" target="_blank"><p class="dosis-400">Github</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://pablo-lario.itch.io/" target="_blank"><p class="dosis-400">Itch.io</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://substack.com/@pablolario" target="_blank"><p class="dosis-400">Substack</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-dark"><p class="dosis-400">pablo.lario02@gmail.com</p></a>
-              </li>
-            </ul>
-          </div>
+      <div class="container-fluid p-0">
+        <nav class="navbar navbar-expand-lg p-0">
+          <ul class="nav justify-content-end w-100">
+            <li class="nav-item">
+              <span class="nav-link"><p class="dosis-400 fx-footer-text">Contact info & socials:</p></span>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://store.steampowered.com/app/2051750/Project_Romboid/" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Steam</p></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/Thelario" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Github</p></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://pablo-lario.itch.io/" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Itch.io</p></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://substack.com/@pablolario" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Substack</p></a>
+            </li>
+            <li class="nav-item">
+              <span class="nav-link"><p class="dosis-400 fx-footer-text">pablo.lario02@gmail.com</p></span>
+            </li>
+          </ul>
         </nav>
       </div>
     </div>
@@ -170,13 +168,23 @@ export default {
 </script>
   
 <style>
+* {
+  background-color: var(--fx-bg-2);
+}
 .header {
   padding-left: 11%;
   padding-right: 11%;
   padding-top: 75px;
   padding-bottom: 50px;
   text-align: left;
-  background: #F6F5F2;
+  background-color: var(--fx-bg-2);
+}
+.header h1 {
+  color: var(--fx-tx);
+  font-weight: 700;
+}
+.header h2, .header h4 {
+  color: var(--fx-tx-2);
 }
 .footer {
   padding-left: 11%;
@@ -184,23 +192,39 @@ export default {
   padding-top: 25px;
   padding-bottom: 25px;
   text-align: left;
-  background: #F6F5F2;
-  margin-top: 20px;
+  background-color: var(--fx-bg-2);
+  margin-top: 40px;
+}
+a:hover {
+  color: var(--fx-accent-hover);
+  text-decoration: underline;
+}
+.fx-footer-link {
+  color: var(--fx-accent) !important;
+  transition: color 0.2s ease;
+  text-decoration: none;
+}
+.fx-footer-link:hover {
+  color: var(--fx-accent-hover) !important;
+  text-decoration-color: var(--fx-accent);
 }
 .card {
-  /* Add shadows to create the "card" effect */
   width: 100%;
+  background-color: var(--fx-ui-3);
+  border-radius: 8px;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
+  overflow: hidden;
 }
-
-/* On mouse-over, add a deeper shadow */
+.card img {
+  border-radius: 8px 8px 0 0;
+}
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4);
+  border-color: var(--fx-accent);
+  transform: translateY(-4px);
 }
-
-/* Add some padding inside the card container */
-.container {
-  padding: 2px 16px;
+.card .container {
+  padding: 16px;
 }
 </style>

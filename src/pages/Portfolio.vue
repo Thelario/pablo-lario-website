@@ -60,7 +60,7 @@
                         <p class="dosis-400">Winner of the UCM Global Game Jam 2025. A game bubble gum minigames to destroy friendships and get an insuline response.</p>
                         <ul class="nav">
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="https://nacho-del-castillo.itch.io/bubblegum-royale" target="_blank"><p class="dosis-400">Play game</p></a>
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://nacho-del-castillo.itch.io/bubblegum-royale" target="_blank"><p class="dosis-400 fx-footer-link">Play game</p></a>
                           </li>
                         </ul>
                       </div>
@@ -81,7 +81,7 @@
                         <p class="dosis-400">Participate in intense poker dice games in which you will have to bet your own life in russian roulette.</p>
                         <ul class="nav">
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="https://store.steampowered.com/app/3459890/Dice_or_Die" target="_blank"><p class="dosis-400">Whislist on Steam</p></a>
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://store.steampowered.com/app/3459890/Dice_or_Die" target="_blank"><p class="dosis-400 fx-footer-link">Whislist on Steam</p></a>
                           </li>
                         </ul>
                       </div>
@@ -108,10 +108,10 @@
                         <p class="dosis-400">Pick unique and powerful balls that will help Mike survive the horde of enemies that want to kill him.</p>
                         <ul class="nav">
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="https://pablo-lario.itch.io/mikes-balls" target="_blank"><p class="dosis-400">Play game</p></a>
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://pablo-lario.itch.io/mikes-balls" target="_blank"><p class="dosis-400 fx-footer-link">Play game</p></a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="https://github.com/Thelario/Mike-Balls" target="_blank"><p class="dosis-400">Source code</p></a>
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://github.com/Thelario/Mike-Balls" target="_blank"><p class="dosis-400 fx-footer-link">Source code</p></a>
                           </li>
                         </ul>
                       </div>
@@ -132,10 +132,10 @@
                         <p class="dosis-400">Help the poor and depressed Steve de-craft the items he is assigned. Game made for the GMTK 2023 Jam.</p>
                         <ul class="nav">
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="https://pablo-lario.itch.io/professional-de-crafter" target="_blank"><p class="dosis-400">Play game</p></a>
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://pablo-lario.itch.io/professional-de-crafter" target="_blank"><p class="dosis-400 fx-footer-link">Play game</p></a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="https://github.com/Thelario/gmtk-jam-2023" target="_blank"><p class="dosis-400">Source code</p></a>
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://github.com/Thelario/gmtk-jam-2023" target="_blank"><p class="dosis-400 fx-footer-link">Source code</p></a>
                           </li>
                         </ul>
                       </div>
@@ -162,7 +162,7 @@
                         <p class="dosis-400">Survive waves of enemies that chase you and shoot at you by picking items and creating powerful builds.</p>
                         <ul class="nav">
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="https://store.steampowered.com/app/2051750/Project_Romboid/" target="_blank"><p class="dosis-400">Play game</p></a>
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://store.steampowered.com/app/2051750/Project_Romboid/" target="_blank"><p class="dosis-400 fx-footer-link">Play game</p></a>
                           </li>
                         </ul>
                       </div>
@@ -183,10 +183,10 @@
                         <p class="dosis-400">A short, fun and casual mobile game in which each minigame changes after 10 seconds (inspired by Pureya).</p>
                         <ul class="nav">
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="https://pablo-lario.itch.io/blups" target="_blank"><p class="dosis-400">Play game</p></a>
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://pablo-lario.itch.io/blups" target="_blank"><p class="dosis-400 fx-footer-link">Play game</p></a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="https://github.com/Thelario/Blups-Project" target="_blank"><p class="dosis-400">Source code</p></a>
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://github.com/Thelario/Blups-Project" target="_blank"><p class="dosis-400 fx-footer-link">Source code</p></a>
                           </li>
                         </ul>
                       </div>
@@ -199,8 +199,8 @@
                 <div class="row">
                   <div class="row">
                     <div class="col-md" style="text-align: left;">
-                      <h4 class="dosis-300">Other Unity Projects</h4>
                       <br>
+                      <h4 class="dosis-300">Other Unity Projects</h4>
                       <p class="dosis-400">Final Degree Thesis: Comparative analysis of OOP and DOP focused on videogame development with Unity and Unity DOTS:&emsp;<a href="https://github.com/Thelario/TFG-Pablo-Lario" target="_blank">Source code</a></p>
                     </div>
                   </div>
@@ -245,7 +245,7 @@
                         <p class="dosis-300">An implementation of the famous Wave Function Collapse algorithm inspired by Oskar Stålberg's work.</p>
                         <ul class="nav">
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="https://github.com/Thelario/wfc-cpp" target="_blank"><p class="dosis-400">Source code</p></a>
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://github.com/Thelario/wfc-cpp" target="_blank"><p class="dosis-400 fx-footer-link">Source code</p></a>
                           </li>
                         </ul>
                       </div>
@@ -266,7 +266,7 @@
                         <p class="dosis-300">A 2D game engine made with C++ and SDL2 with the goal of making 2D roguelike games with it.</p>
                         <ul class="nav">
                           <li class="nav-item">
-                            <a class="nav-link text-blue" href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><p class="dosis-400">Source code</p></a>
+                            <a class="nav-link" style="text-decoration: none;" href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><p class="dosis-400 fx-footer-link" >Source code</p></a>
                           </li>
                         </ul>
                       </div>
@@ -290,30 +290,28 @@
     <!-- FOOTER -->
 
     <div class="footer">
-      <div class="background">
-        <nav class="navbar navbar-expand-lg">
-          <div class="container-fluid">
-            <ul class="nav justify-content-end">
-              <li class="nav-item">
-                <a class="nav-link text-dark"><p class="dosis-400">Contact info & socials:</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://store.steampowered.com/app/2051750/Project_Romboid/" target="_blank"><p class="dosis-400">Steam</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://github.com/Thelario" target="_blank"><p class="dosis-400">Github</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://pablo-lario.itch.io/" target="_blank"><p class="dosis-400">Itch.io</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://substack.com/@pablolario" target="_blank"><p class="dosis-400">Substack</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-dark"><p class="dosis-400">pablo.lario02@gmail.com</p></a>
-              </li>
-            </ul>
-          </div>
+      <div class="container-fluid p-0">
+        <nav class="navbar navbar-expand-lg p-0">
+          <ul class="nav justify-content-end w-100">
+            <li class="nav-item">
+              <span class="nav-link"><p class="dosis-400 fx-footer-text">Contact info & socials:</p></span>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://store.steampowered.com/app/2051750/Project_Romboid/" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Steam</p></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/Thelario" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Github</p></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://pablo-lario.itch.io/" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Itch.io</p></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://substack.com/@pablolario" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Substack</p></a>
+            </li>
+            <li class="nav-item">
+              <span class="nav-link"><p class="dosis-400 fx-footer-text">pablo.lario02@gmail.com</p></span>
+            </li>
+          </ul>
         </nav>
       </div>
     </div>
@@ -337,28 +335,65 @@ export default {
 </script>
 
 <style>
+* {
+  background-color: var(--fx-bg-2);
+}
 .header {
   padding-left: 11%;
   padding-right: 11%;
   padding-top: 75px;
-  padding-bottom: 25px;
-  text-align: center;
-  background: #F6F5F2;
+  padding-bottom: 50px;
+  text-align: left;
+  background-color: var(--fx-bg-2);
+}
+.header h1 {
+  color: var(--fx-tx);
+  font-weight: 700;
+}
+.header h4 {
+  color: var(--fx-tx-2);
 }
 .footer {
   padding-left: 11%;
   padding-right: 11%;
   padding-top: 25px;
   padding-bottom: 25px;
-  background: #F6F5F2;
-  margin-top: 20px;
+  text-align: left;
+  background-color: var(--fx-bg-2);
+  margin-top: 40px;
 }
 img {
   width: 100%;
-  height: 92%;
-  padding-top: 25px;
+  height: auto;
+  border-radius: 6px;
+  margin-top: 20px;
 }
 a {
+  color: var(--fx-accent);
+  transition: color 0.2s ease;
   text-decoration: none;
+}
+a:hover {
+  color: var(--fx-accent-hover);
+  text-decoration: underline;
+}
+.fx-footer-link {
+  color: var(--fx-accent) !important;
+  transition: color 0.2s ease;
+  text-decoration: none;
+}
+.fx-footer-link:hover {
+  color: var(--fx-accent-hover) !important;
+  text-decoration-color: var(--fx-accent);
+  text-decoration: underline;
+}
+.ant-tabs-tab .ant-tabs-tab-btn {
+  color: var(--fx-tx) !important;
+}
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: var(--fx-accent) !important;
+}
+.ant-tabs-ink-bar {
+  background: var(--fx-accent) !important;
 }
 </style>

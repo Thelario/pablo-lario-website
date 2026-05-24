@@ -16,13 +16,11 @@
           <div class="my-col">
             <h5 class="dosis-200"><i> A little context...</i> </h5>
             <br>
-            <h4 class="dosis-300">I am a spanish game programmer who is trying to set foot in the industry.
-              I've been learning gamedev for more than five years, and it has been an incredible journey so far.
-              I just love games a lot. Check my <a href="/portfolio">portofolio</a> if you want.</h4>
+            <h4 class="dosis-300">I am a spanish game programmer who has been making games for a while now. If you are
+              curious about them, feel free to check out <a href="/portfolio">my portfolio</a>.</h4>
             <br>
-            <h4 class="dosis-300">It is actually a bit difficult for me to define myself purely as a game programmer,
-              because I am currently working as a software engineer at <a href="https://www.softtek.com/" target="_blank">Softtek</a> doing backend development, and I also
-              like it a lot.</h4>
+            <h4 class="dosis-300">I am currently working as an Automation Programmer at MercurySteam. It is a dream come true to be able
+              to help a big team develop such amazing games.</h4>
             <br>
             <h4 class="dosis-300">I am not only interested in games, but learning in general. I am a really curious
               person, and one of the things that I spend most of my time on is reading books. I just enjoy acquiring
@@ -50,8 +48,10 @@
               <a href="https://www.glaielgames.com/" target="_blank">Tyler Glaiel</a> have convinced me to do so, and I think it
               is the best decision I could've taken.</h4> 
             <br>
-            <h4 class="dosis-300">Since October 2024 I've been enrolled on a <a href="https://www.videojuegos-ucm.es/programa.html" target="_blank">Master's Degree in Game Programming</a>. I have been 
-              enjoying it a lot and I don't want it to finish! We are making a really interesing game and I've learned a lot this year. I've also met some wonderful people I hope to keep in my life.</h4>
+            <h4 class="dosis-300">Lately I've been writting some articles about life, finances, money and things like that. It would be amazing
+              to get some feedback and chat a little bit. If you are interested, check out <a href="/blog" target="_blank">my blog</a>. I always love debating
+              about everything, so feel freel to reach out. I am also making prototypes about ideas that I have, but nothing serious for now.
+            </h4>
           </div>
         </div>
       </div>
@@ -60,30 +60,28 @@
     <!-- FOOTER -->
 
     <div class="footer">
-      <div class="background">
-        <nav class="navbar navbar-expand-lg">
-          <div class="container-fluid">
-            <ul class="nav justify-content-end">
-              <li class="nav-item">
-                <a class="nav-link text-dark"><p class="dosis-400">Contact info & socials:</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://store.steampowered.com/app/2051750/Project_Romboid/" target="_blank"><p class="dosis-400">Steam</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://github.com/Thelario" target="_blank"><p class="dosis-400">Github</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://pablo-lario.itch.io/" target="_blank"><p class="dosis-400">Itch.io</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-blue" href="https://substack.com/@pablolario" target="_blank"><p class="dosis-400">Substack</p></a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link text-dark"><p class="dosis-400">pablo.lario02@gmail.com</p></a>
-              </li>
-            </ul>
-          </div>
+      <div class="container-fluid p-0">
+        <nav class="navbar navbar-expand-lg p-0">
+          <ul class="nav justify-content-end w-100">
+            <li class="nav-item">
+              <span class="nav-link"><p class="dosis-400 fx-footer-text">Contact info & socials:</p></span>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://store.steampowered.com/app/2051750/Project_Romboid/" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Steam</p></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://github.com/Thelario" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Github</p></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://pablo-lario.itch.io/" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Itch.io</p></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://substack.com/@pablolario" target="_blank" style="text-decoration-color: var(--fx-accent-hover);"><p class="dosis-400 fx-footer-link">Substack</p></a>
+            </li>
+            <li class="nav-item">
+              <span class="nav-link"><p class="dosis-400 fx-footer-text">pablo.lario02@gmail.com</p></span>
+            </li>
+          </ul>
         </nav>
       </div>
     </div>
@@ -98,13 +96,26 @@
 </script>
 
 <style>
+* {
+  background-color: var(--fx-bg-2);
+}
 .header {
   padding-left: 11%;
   padding-right: 11%;
   padding-top: 75px;
   padding-bottom: 50px;
   text-align: left;
-  background: #F6F5F2;
+  background-color: var(--fx-bg-2);
+}
+.container {
+  background-color: var(--fx-bg-2);
+}
+.header h1 {
+  color: var(--fx-tx);
+  font-weight: 700;
+}
+.header h2 {
+  color: var(--fx-tx-2);
 }
 .footer {
   padding-left: 11%;
@@ -112,18 +123,34 @@
   padding-top: 25px;
   padding-bottom: 25px;
   text-align: left;
-  background: #F6F5F2;
-  margin-top: 20px;
+  background-color: var(--fx-bg-2);
+  margin-top: 40px;
 }
 .my-col {
   text-align: left;
+  margin-top: 30px;
 }
 img {
   width: 100%;
-  height: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin-top: 15px;
 }
-a:link { text-decoration: none; }
-a:visited { text-decoration: none; }
-a:hover { text-decoration: none; }
-a:active { text-decoration: none; }
+a {
+  color: var(--fx-accent);
+  transition: color 0.2s ease;
+}
+a:hover {
+  color: var(--fx-accent-hover);
+  text-decoration: underline;
+}
+.fx-footer-link {
+  color: var(--fx-accent) !important;
+  transition: color 0.2s ease;
+  text-decoration: none;
+}
+.fx-footer-link:hover {
+  color: var(--fx-accent-hover) !important;
+  text-decoration-color: var(--fx-accent);
+}
 </style>
