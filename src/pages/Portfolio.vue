@@ -42,6 +42,54 @@
                 </div>
                 <br>
 
+                <!-- FOURTH ROW -->
+
+                <div class="row">
+
+                  <!-- LEFT SIDE PROJECT -->
+
+                  <div class="col-sm">
+                    <div class="row">
+                      <div class="col-sm-7">
+                        <a href="https://pablo-lario.itch.io/bian-2-y-la-lian" target="_blank"><img src="../assets/bianlian.gif" alt="" /></a>
+                      </div>
+                      <div class="col-sm">
+                        <br>
+                        <h3 class="dosis-300">Bian 2 y la Lian</h3>
+                        <p class="dosis-300">January, 2026</p>
+                        <p class="dosis-400">A game inspired by mask-changing, made for the Global Game Jam 2026.</p>
+                        <ul class="nav">
+                          <li class="nav-item">
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://pablo-lario.itch.io/bian-2-y-la-lian" target="_blank"><p class="dosis-400 fx-footer-link">Play game</p></a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- RIGHT SIDE PROJECT -->
+
+                  <div class="col-sm">
+                    <div class="row">
+                      <div class="col-sm-7">
+                        <a href="https://reijav.itch.io/fit-wheels" target="_blank"><img src="../assets/fitwheels.gif" alt="" /></a>
+                      </div>
+                      <div class="col-sm">
+                        <br>
+                        <h3 class="dosis-300">Fit Wheels</h3>
+                        <p class="dosis-300">May, 2025</p>
+                        <p class="dosis-400">A game about disabilities and physical health, made for the Hack Jam 9. Control the player with the chair.</p>
+                        <ul class="nav">
+                          <li class="nav-item">
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://reijav.itch.io/fit-wheels" target="_blank"><p class="dosis-400 fx-footer-link">Play game</p></a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+
                 <!-- FIRST ROW -->
 
                 <div class="row">
@@ -77,7 +125,7 @@
                       <div class="col-sm">
                         <br>
                         <h3 class="dosis-300">Dice or Die</h3>
-                        <p class="dosis-300">October, 2024 - Present</p>
+                        <p class="dosis-300">October, 2024 - July 2025</p>
                         <p class="dosis-400">Participate in intense poker dice games in which you will have to bet your own life in russian roulette.</p>
                         <ul class="nav">
                           <li class="nav-item">
@@ -144,7 +192,7 @@
 
                 </div>
 
-                <!-- SECOND ROW -->
+                <!-- THIRD ROW -->
 
                 <div class="row">
 
@@ -262,7 +310,7 @@
                       <div class="col-sm">
                         <br>
                         <h3 class="dosis-300">Satellite Engine 2D</h3>
-                        <p class="dosis-300">February, 2024 - Present</p>
+                        <p class="dosis-300">February, 2024 - September, 2024</p>
                         <p class="dosis-300">A 2D game engine made with C++ and SDL2 with the goal of making 2D roguelike games with it.</p>
                         <ul class="nav">
                           <li class="nav-item">
@@ -280,6 +328,78 @@
           </div>  
 
         </a-tab-pane>
+
+        <!-- THIRD TAB -->
+
+        <a-tab-pane key="3" tab="Unreal Projects" force-render>
+          
+          <div class="row">
+            <div class="col-md" style="text-align: left;">
+              <div class="container">
+                <br>
+                <div class="row">
+                  <h4 class="dosis-200">These are the most important projects that I've developed using Unreal Engine 5.</h4>
+                  <br>
+                </div>
+                <br>
+
+                <!-- FIRST ROW -->
+
+                <div class="row">
+
+                  <!-- LEFT SIDE PROJECT -->
+
+                  <div class="col-sm">
+                    <div class="row">
+                      <div class="col-sm-7">
+                        <a href="https://store.steampowered.com/app/3587480/Underpacked/" target="_blank"><img src="../assets/cohete.gif" alt="" /></a>
+                      </div>
+                      <div class="col-sm">
+                        <br>
+                        <h3 class="dosis-300">Underpacked</h3>
+                        <p class="dosis-300">January, 2025 - July 2025</p>
+                        <p class="dosis-300">The game made as the main project for the Master's Degree in Game Programming by UCM.</p>
+                        <ul class="nav">
+                          <li class="nav-item">
+                            <a class="nav-link text-blue" style="text-decoration: none;" href="https://store.steampowered.com/app/3587480/Underpacked/" target="_blank"><p class="dosis-400 fx-footer-link">Play game</p></a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- RIGHT SIDE PROJECT -->
+
+                  
+                  <div class="col-sm">
+                    <!-- 
+                    <div class="row">
+                      <div class="col-sm-7">
+                        <a href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><img src="../assets/rendering_engine.png" alt="" /></a>
+                      </div>
+                      <div class="col-sm">
+                        <br>
+                        <h3 class="dosis-300">Satellite Engine 2D</h3>
+                        <p class="dosis-300">February, 2024 - Present</p>
+                        <p class="dosis-300">A 2D game engine made with C++ and SDL2 with the goal of making 2D roguelike games with it.</p>
+                        <ul class="nav">
+                          <li class="nav-item">
+                            <a class="nav-link" style="text-decoration: none;" href="https://github.com/Thelario/Satellite-Engine-2D" target="_blank"><p class="dosis-400 fx-footer-link" >Source code</p></a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                   -->
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+          </div>  
+
+        </a-tab-pane>
+
       </a-tabs>
 
       <br>
